@@ -1,0 +1,7 @@
+.display{
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
